@@ -1,0 +1,65 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+header{    
+    background-position: center center;
+    background-image: url("/Web/img/bg2.jpg");
+    height: 350px;
+} 
+h1{
+    background-color: rgb(248, 248, 248);
+    margin-top: 80px;
+    padding-left: 11rem; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #463706;
+}
+
+.navbar{
+    background-color:#bbee00 ;
+}
+
+h2{    
+    margin-top: 10px;    
+    color: #463706;
+    border-width: 3px;
+    border-left-style:dotted;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+h3{    
+    font-weight: bold;
+    color: #753d2b;
+    text-align: center;    
+    letter-spacing: 1px;
+}
+
+
+li{
+    list-style-image: url(../img/maszk.png);
+    
+}
+
+
+td,th{
+    text-align: center;
+    margin-left: 40px;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;  
+      
+}
+
+a{
+
+    color: #463706;
+}
+p{
+    text-justify: auto;
+    text-indent: 15px;
+}
